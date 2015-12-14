@@ -4,8 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ztest.iml" filepath="$PROJECT_DIR$/Ztest.iml" />
       <module fileurl="file://$PROJECT_DIR$/day5_test/day5_test.iml" filepath="$PROJECT_DIR$/day5_test/day5_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6_01/day6_01.iml" filepath="$PROJECT_DIR$/day6_01/day6_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6_test/day6_test.iml" filepath="$PROJECT_DIR$/day6_test/day6_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/p196/p196.iml" filepath="$PROJECT_DIR$/p196/p196.iml" />
       <module fileurl="file://$PROJECT_DIR$/p205/p205.iml" filepath="$PROJECT_DIR$/p205/p205.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p212/p212.iml" filepath="$PROJECT_DIR$/p212/p212.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p218/p218.iml" filepath="$PROJECT_DIR$/p218/p218.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p223/p223.iml" filepath="$PROJECT_DIR$/p223/p223.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p227/p227.iml" filepath="$PROJECT_DIR$/p227/p227.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p233/p233.iml" filepath="$PROJECT_DIR$/p233/p233.iml" />
     </modules>
   </component>
 </project>
